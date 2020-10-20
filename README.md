@@ -4,7 +4,7 @@ Convert an 8-4164 DRAM based Commodore to utilize 2 4464 DRAMs or an SRAM replac
 
 ## Options
 
-Contrary to first glance, C64 motherboard models 250425 and 250466 do __NOT__ share the same 8 DRAM IC layout.  It's close, but just slightly off.  Therefore, there are two versions of this carrier design, one for each motherboard. 
+Contrary to first glance, C64 motherboard models 250407 and 250425 do __NOT__ share the same 8 DRAM IC layout.  It's close, but just slightly off.  Therefore, there are two versions of this carrier design, one for each motherboard. 
 
 There's no logic on the PCB, it just passively maps the 8 individual IO signals from each DRAM socket to one of the 2 4464 DRAM footprints.  Care has been taken to preserve the relative order, so D0 on the 4164 and D0 on the 4464 should be the same.
 

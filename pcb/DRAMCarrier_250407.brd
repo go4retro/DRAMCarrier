@@ -120,7 +120,7 @@
 <wire x1="25.39954375" y1="55.8752375" x2="24.129546875" y2="57.15" width="0" layer="20" curve="90.020302"/>
 <wire x1="24.129546875" y1="57.15" x2="-25.4" y2="57.15" width="0" layer="20"/>
 <wire x1="-25.4" y1="57.15" x2="-26.67" y2="55.88" width="0" layer="20" curve="90"/>
-<text x="-0.635" y="0" size="1.016" layer="27" ratio="10" align="bottom-center">DRAM Carrier (250466)
+<text x="-0.635" y="0" size="1.016" layer="27" ratio="10" align="bottom-center">DRAM Carrier (250407)
 (c)2019 RETRO Innovations
 www.go4retro.com</text>
 <dimension x1="-25.4" y1="57.15" x2="-25.4" y2="-1.27" x3="-27.94" y3="27.94" textsize="1.016" textratio="10" layer="48"/>
@@ -505,8 +505,8 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="HDR1" library="commodore" package="8XDIL16_REV" value="8X4164-1" x="0" y="27.94" smashed="yes">
-<attribute name="NAME" x="-27.559" y="29.083" size="1.016" layer="26" ratio="10" rot="MR270"/>
-<attribute name="VALUE" x="28.575" y="33.655" size="1.016" layer="28" ratio="10" rot="MR270"/>
+<attribute name="NAME" x="1.778" y="28.194" size="1.016" layer="26" ratio="10" rot="MR0"/>
+<attribute name="VALUE" x="3.81" y="26.67" size="1.016" layer="28" ratio="10" rot="MR0"/>
 </element>
 <element name="IC1" library="memory-jlb" package="DIL18" value="" x="-8.255" y="40.64" smashed="yes" rot="R270">
 <attribute name="MPN" value="" x="-8.255" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
